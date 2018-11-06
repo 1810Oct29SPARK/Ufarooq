@@ -1,0 +1,11 @@
+Spark Project
+
+Theme: Event Planning
+Use Case List
+1. Location/Venue/Theme
+2. Date/Day/Time
+3. Guest List/Invitations
+4. Decorations
+5. Outfits
+6. Catering/Food
+7. Entertainment/Activities
